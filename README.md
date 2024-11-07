@@ -39,4 +39,3 @@ https://github.com/googleapis/google-api-php-client
 * "GetUserGInfo.php" is the page where user    credentials are capture.
 
 * "profile_pics" folder is the place where user profile pics store and then return
-* 
