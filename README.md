@@ -2,9 +2,7 @@
 # PHP-Google Authentiation
 
 Way to set up google authentication on projet with PHP.
-
-User can use personal google account for services. 
-
+Can use personal google account for services. 
 Code will capture user credentials such as profile photo, name and mail.
 
 ## API Reference
